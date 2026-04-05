@@ -13,6 +13,10 @@ pnpm dev
 # or
 bun dev
 ```
+For seeded database
+npm run db:setup
+Email_ Blissfruits@local.com
+pass_ Admin123!
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
